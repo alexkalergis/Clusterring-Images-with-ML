@@ -52,7 +52,3 @@ The tasks in this project include:
 ### Problem 2: Image Classification
 - **Data**: MNIST-like image data of handwritten digits.
 - **Neural Networks**: Fully connected networks with ReLU activations, trained using cross-entropy, exponential, and hinge loss functions.
-
-## License
-
-This project is for educational purposes. Licensing details can be added here if applicab
