@@ -36,12 +36,6 @@ The tasks in this project include:
 3. **Visualization**
    - Plots showing the error rates and comparisons between different methods will be displayed using Matplotlib.
 
-## Dependencies
-
-- Python 3.x
-- NumPy
-- Matplotlib
-- Keras (used for loading MNIST data)
 
 ## Project Details
 
